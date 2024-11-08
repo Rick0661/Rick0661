@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rick06
+- 👋 Hi, I’m Zman6
 - 👀 I’m interested in Hacking 
 - 🌱 I’m currently learning Network security engineering 
 - 💞️ I’m looking to collaborate on some project about create a application 
